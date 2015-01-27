@@ -1,0 +1,193 @@
+body {
+	background: url("images/backgroundspace3.jpg");
+	margin: 0 auto;
+	background-attachment:fixed;
+}
+h1 {
+	border-radius: 55px;
+	background: url("images/backgroundspace4.jpg");
+	text-align: center;
+	color: #FFB800;
+	font-family: "Times New Roman", Verdana, sans-serif;
+	border: 5px #FFB800 ridge;
+	padding: 15px 0px 15px 0px;
+}
+.paragraphe {
+	text-align: center;
+	font-size: 0.9em;
+	font-family: "Times New Roman", Verdana, sans-serif; 
+	font-style: italic;
+}
+
+#gauche {
+	
+	background: url("images/backgroundspace4.jpg");
+	background-repeat: repeat;
+	border-radius: 10px;
+	float: left;
+	position: absolute;
+	height: 900px;
+	width: 15%;
+	border: 5px #FFB800 double;
+}
+
+#centre {
+
+	color: #FFFFFF;
+	display: inline-block;
+	background: url("images/backgroundspace.jpg");
+	border-radius: 2px;
+	position: relative;
+	margin-top: 10px;
+	margin-left: 180px;
+	height: 900px;
+	width: 65%;
+	margin-right: 15px;
+	border: 5px #FFB800 groove;
+}
+
+
+#droite {
+
+	color: #FFFFFF;
+	text-align: center;
+	display: inline-block;
+	background: url("images/backgroundspace4.jpg");
+	border-radius: 10px;
+	float: right;
+	position: absolute;
+	height:900px;
+	width: 15%;
+	border: 5px #FFB800 double;
+}
+table {
+	border-collapse: collapse;
+	background: url("images/backgroundspace4.jpg");
+}
+#nasa {
+	padding-right: 75px;
+	padding-left: 75px;
+}
+#astro {
+	padding-right: 50px;
+	padding-left: 50px;
+}
+#wiki {
+	padding-right: 55px;
+	padding-left: 55px;
+}
+.linktop {
+	color: #C89100;
+	text-decoration: none;
+}
+.linkdescription {
+    color: #FFB800;
+}
+td {
+	border: 2px solid #FFB800;
+	padding: 15px 65px 15px 65px;
+	font-weight: bold;
+}
+a:hover {
+	text-decoration: underline;
+	font-style: italic;
+	color: yellow;
+	font-weight: bold;
+}
+#soleil {
+	float: left;
+	margin-top: 5px;
+	border: 2px solid yellow;
+}
+#psoleilh2 {
+	color: #FFB800;
+	text-decoration: underline;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 5px;
+}
+#voielacteeh2 {
+	text-align: center;
+	color: #FFB800;
+	text-decoration: underline;
+}
+#voielactee {
+	float: right;
+	border: 2px solid yellow;
+	margin-top: 40px;
+}
+#page {
+	text-align: center;
+	font-size: 0.8em;
+	color: yellow;
+}
+#ancrepage2 {
+	color: #C89100;
+}
+#ancrepage3 {
+	color: #C89100;
+}
+#ancrepage1 {
+	color: #C89100;
+}
+#bigbang {
+	color: #FFB800;
+	text-decoration: underline;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 5px;
+}
+#textleft {
+	float: left;
+	display: inline;
+	padding-left: 10px;
+	color: #FFFFFF;
+	font-style: italic;
+}
+#soustitres {
+	text-decoration: underline;
+	font-weight: bold;
+	text-align: center;
+	font-size: 0.9em;
+	font-family: "Times New Roman", Verdana, sans-serif; 
+	color: #FFB800;
+
+}
+#bigbang2 {
+
+	float: left;
+	border: 2px yellow solid;
+}
+#galaxie2 {
+	float: right;
+	border: 2px yellow solid;
+}
+#galaxie {
+	text-align: center;
+}
+h2 {
+	font-size: 1.2em;
+}
+#mail {
+	text-decoration: underline;
+	padding-left: 15px;
+	color: #FFB800;
+	font-family: Courier, cursive;
+	font-weight: bold;
+	font-size: 0.9em;
+}
+#planete {
+	color: #FFB800;
+	text-decoration: underline;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 5px;
+}
+#planete2 {
+	float: left;
+	border: 2px yellow solid;
+}
+#r_s {
+	color: #FFB800;
+	text-decoration: underline;
+}
